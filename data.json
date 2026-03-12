@@ -1,0 +1,167 @@
+{
+  "generated_at": "2026-03-12T05:49:00Z",
+  "generated_at_wib": "2026-03-12T12:49:00+07:00",
+  "spreadsheet_id": "1MdTlen1rcq1ZplbTwfHzj-kHFBoQufgahzRAxZPqt7U",
+  "accounts": [
+    "metmalbekasi",
+    "grandmetropolitan",
+    "metmalcileungsi",
+    "summareconmal.bekasi",
+    "pakuwonmallbekasi"
+  ],
+  "latest": {
+    "date": "2026-03-12",
+    "metmalbekasi": {
+      "followers": 93484,
+      "following": 264,
+      "posts": 16463,
+      "avg_likes": 37.42,
+      "avg_comments": 2.25,
+      "engagement_rate": 0.04,
+      "ff_ratio": 354.11,
+      "verified": true
+    },
+    "grandmetropolitan": {
+      "followers": 92417,
+      "following": 267,
+      "posts": 11349,
+      "avg_likes": 132.0,
+      "avg_comments": 8.0,
+      "engagement_rate": 0.15,
+      "ff_ratio": 346.14,
+      "verified": true
+    },
+    "metmalcileungsi": {
+      "followers": 83242,
+      "following": 2183,
+      "posts": 18413,
+      "avg_likes": 300.5,
+      "avg_comments": 9.17,
+      "engagement_rate": 0.37,
+      "ff_ratio": 38.13,
+      "verified": true
+    },
+    "summareconmal.bekasi": {
+      "followers": 332943,
+      "following": 813,
+      "posts": 15721,
+      "avg_likes": 167.42,
+      "avg_comments": 11.33,
+      "engagement_rate": 0.05,
+      "ff_ratio": 409.52,
+      "verified": true
+    },
+    "pakuwonmallbekasi": {
+      "followers": 72287,
+      "following": 232,
+      "posts": 1536,
+      "avg_likes": 149.33,
+      "avg_comments": 14.0,
+      "engagement_rate": 0.23,
+      "ff_ratio": 311.58,
+      "verified": false
+    }
+  },
+  "history": [
+    {
+      "date": "2026-03-07",
+      "metmalbekasi": { "followers": 93356, "following": 264, "posts": 16453, "avg_likes": 35.42, "avg_comments": 2.33, "engagement_rate": 0.04 },
+      "grandmetropolitan": { "followers": 92264, "following": 267, "posts": 11331, "avg_likes": 108.58, "avg_comments": 2.92, "engagement_rate": 0.12 },
+      "metmalcileungsi": { "followers": 83224, "following": 2183, "posts": 18402, "avg_likes": 36.94, "avg_comments": 0.94, "engagement_rate": 0.05 },
+      "summareconmal.bekasi": { "followers": 332402, "following": 812, "posts": 15681, "avg_likes": 299.63, "avg_comments": 46.56, "engagement_rate": 0.10 },
+      "pakuwonmallbekasi": { "followers": 72283, "following": 231, "posts": 1520, "avg_likes": 85.31, "avg_comments": 6.81, "engagement_rate": 0.13 }
+    },
+    {
+      "date": "2026-03-08",
+      "metmalbekasi": { "followers": 93398, "following": 264, "posts": 16453, "avg_likes": 42.64, "avg_comments": 2.91, "engagement_rate": 0.05 },
+      "grandmetropolitan": { "followers": 92300, "following": 267, "posts": 11336, "avg_likes": 150.7, "avg_comments": 4.5, "engagement_rate": 0.17 },
+      "metmalcileungsi": { "followers": 83229, "following": 2183, "posts": 18405, "avg_likes": 136.91, "avg_comments": 9.55, "engagement_rate": 0.18 },
+      "summareconmal.bekasi": { "followers": 332625, "following": 813, "posts": 15695, "avg_likes": 891.0, "avg_comments": 6.91, "engagement_rate": 0.27 },
+      "pakuwonmallbekasi": { "followers": 72347, "following": 231, "posts": 1524, "avg_likes": 99.88, "avg_comments": 1.88, "engagement_rate": 0.14 }
+    },
+    {
+      "date": "2026-03-09",
+      "metmalbekasi": { "followers": 93429, "following": 264, "posts": 16458, "avg_likes": 2.2, "avg_comments": 2.0, "engagement_rate": 0.04 },
+      "grandmetropolitan": { "followers": 92318, "following": 267, "posts": 11338, "avg_likes": 96.67, "avg_comments": 3.25, "engagement_rate": 0.11 },
+      "metmalcileungsi": { "followers": 83243, "following": 2182, "posts": 18407, "avg_likes": 181.58, "avg_comments": 9.08, "engagement_rate": 0.23 },
+      "summareconmal.bekasi": { "followers": 332764, "following": 813, "posts": 15701, "avg_likes": 1701.83, "avg_comments": 11.1, "engagement_rate": 0.52 },
+      "pakuwonmallbekasi": { "followers": 72335, "following": 231, "posts": 1528, "avg_likes": 589.92, "avg_comments": 24.75, "engagement_rate": 0.85 }
+    },
+    {
+      "date": "2026-03-10",
+      "metmalbekasi": { "followers": 93449, "following": 264, "posts": 16460, "avg_likes": 39.58, "avg_comments": 3.0, "engagement_rate": 0.05 },
+      "grandmetropolitan": { "followers": 92336, "following": 267, "posts": 11344, "avg_likes": 39.75, "avg_comments": 2.42, "engagement_rate": 0.05 },
+      "metmalcileungsi": { "followers": 83250, "following": 2183, "posts": 18410, "avg_likes": 201.67, "avg_comments": 5.92, "engagement_rate": 0.25 },
+      "summareconmal.bekasi": { "followers": 332885, "following": 813, "posts": 15709, "avg_likes": 198.0, "avg_comments": 8.75, "engagement_rate": 0.06 },
+      "pakuwonmallbekasi": { "followers": 72311, "following": 231, "posts": 1533, "avg_likes": 171.58, "avg_comments": 14.33, "engagement_rate": 0.26 }
+    },
+    {
+      "date": "2026-03-11",
+      "metmalbekasi": { "followers": 93487, "following": 264, "posts": 16464, "avg_likes": 40.58, "avg_comments": 2.25, "engagement_rate": 0.05 },
+      "grandmetropolitan": { "followers": 92422, "following": 267, "posts": 11350, "avg_likes": 145.67, "avg_comments": 8.08, "engagement_rate": 0.17 },
+      "metmalcileungsi": { "followers": 83246, "following": 2183, "posts": 18413, "avg_likes": 305.42, "avg_comments": 9.25, "engagement_rate": 0.38 },
+      "summareconmal.bekasi": { "followers": 148287, "following": 50, "posts": 1028, "avg_likes": 500.0, "avg_comments": 20.0, "engagement_rate": 0.69 },
+      "pakuwonmallbekasi": { "followers": 145678, "following": 50, "posts": 1042, "avg_likes": 500.0, "avg_comments": 20.0, "engagement_rate": 0.69 }
+    },
+    {
+      "date": "2026-03-12",
+      "metmalbekasi": { "followers": 93484, "following": 264, "posts": 16463, "avg_likes": 37.42, "avg_comments": 2.25, "engagement_rate": 0.04 },
+      "grandmetropolitan": { "followers": 92417, "following": 267, "posts": 11349, "avg_likes": 132.0, "avg_comments": 8.0, "engagement_rate": 0.15 },
+      "metmalcileungsi": { "followers": 83242, "following": 2183, "posts": 18413, "avg_likes": 300.5, "avg_comments": 9.17, "engagement_rate": 0.37 },
+      "summareconmal.bekasi": { "followers": 332943, "following": 813, "posts": 15721, "avg_likes": 167.42, "avg_comments": 11.33, "engagement_rate": 0.05 },
+      "pakuwonmallbekasi": { "followers": 72287, "following": 232, "posts": 1536, "avg_likes": 149.33, "avg_comments": 14.0, "engagement_rate": 0.23 }
+    }
+  ],
+  "growth": {
+    "metmalbekasi": {
+      "followers_change_1d": -3,
+      "followers_change_6d": 128,
+      "pct_change_6d": 0.14
+    },
+    "grandmetropolitan": {
+      "followers_change_1d": -5,
+      "followers_change_6d": 153,
+      "pct_change_6d": 0.17
+    },
+    "metmalcileungsi": {
+      "followers_change_1d": -4,
+      "followers_change_6d": 18,
+      "pct_change_6d": 0.02
+    },
+    "summareconmal.bekasi": {
+      "followers_change_1d": 184656,
+      "followers_change_6d": 541,
+      "pct_change_6d": 0.16,
+      "note": "Mar-11 data anomaly (followers=148287) — likely scrape error; Mar-12 restored to 332943"
+    },
+    "pakuwonmallbekasi": {
+      "followers_change_1d": -73391,
+      "followers_change_6d": 4,
+      "pct_change_6d": 0.01,
+      "note": "Mar-11 data anomaly (followers=145678) — likely scrape error; Mar-12 restored to 72287"
+    }
+  },
+  "rankings": {
+    "by_followers": [
+      { "rank": 1, "account": "summareconmal.bekasi", "followers": 332943 },
+      { "rank": 2, "account": "metmalbekasi", "followers": 93484 },
+      { "rank": 3, "account": "grandmetropolitan", "followers": 92417 },
+      { "rank": 4, "account": "metmalcileungsi", "followers": 83242 },
+      { "rank": 5, "account": "pakuwonmallbekasi", "followers": 72287 }
+    ],
+    "by_engagement_rate": [
+      { "rank": 1, "account": "metmalcileungsi", "engagement_rate": 0.37 },
+      { "rank": 2, "account": "pakuwonmallbekasi", "engagement_rate": 0.23 },
+      { "rank": 3, "account": "grandmetropolitan", "engagement_rate": 0.15 },
+      { "rank": 4, "account": "summareconmal.bekasi", "engagement_rate": 0.05 },
+      { "rank": 5, "account": "metmalbekasi", "engagement_rate": 0.04 }
+    ],
+    "by_avg_likes": [
+      { "rank": 1, "account": "metmalcileungsi", "avg_likes": 300.5 },
+      { "rank": 2, "account": "pakuwonmallbekasi", "avg_likes": 149.33 },
+      { "rank": 3, "account": "grandmetropolitan", "avg_likes": 132.0 },
+      { "rank": 4, "account": "summareconmal.bekasi", "avg_likes": 167.42 },
+      { "rank": 5, "account": "metmalbekasi", "avg_likes": 37.42 }
+    ]
+  }
+}
